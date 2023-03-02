@@ -7,4 +7,7 @@ def main(a,b):
     Returns:
         bool: answer
     """
-    return
+    return(main)
+a = 9
+b = 5
+print(bool(a%2>0))
