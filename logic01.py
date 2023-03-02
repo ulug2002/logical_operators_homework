@@ -8,4 +8,8 @@ def main(a,b,c):
     Returns:
         bool: answer
     """
-    return
+    a = 8
+    b = 2
+    c = 4
+    return(a,c,b)
+print(bool(8>2<4))
