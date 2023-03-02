@@ -7,7 +7,7 @@ def main(a,b):
     Returns:
         bool: answer
     """
-    return(bool)
+    return(a,b)
 a = 31
 b = 3
-print(bool(a<b))
+print(bool(a>b))
