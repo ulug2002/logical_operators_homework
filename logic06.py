@@ -7,7 +7,7 @@ def main(a,b):
     Returns:
         bool: answer
     """
-    return(a,b)
+    return(main(a,b))
 a = 8
 b = 5
 print(bool(b%2))
